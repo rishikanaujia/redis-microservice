@@ -1,1 +1,9 @@
 # redis-microservice
+
+# requirements.txt
+flask==3.0.0
+redis==5.0.1
+gunicorn==21.2.0
+
+
+
